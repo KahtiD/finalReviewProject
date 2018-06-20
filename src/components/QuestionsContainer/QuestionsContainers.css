@@ -1,0 +1,72 @@
+
+
+.questionTitle {
+  font-family: 'Barbie';
+  font-size: 50px;
+  margin: 0px;
+  padding: 40px 0px 0px 40px;
+  color: white;
+}
+
+.answersContainer {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.answerStyle{
+  width: 100%;
+  height: 100%;
+}
+
+.answerstyle{
+  height: 50%;
+  width: 50%;
+  display: inline-block;
+}
+
+.radioStyle{
+  display: inline-block;
+  position: relative;
+  bottom: 40%;
+  right: 30px;
+}
+
+.answerText{
+  text-align: center;
+  font-family: 'Shree Devanagari 714';
+  color: white;
+}
+
+.answerGif{
+  width: 400px;
+  height: 200px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.correct{
+  width: 100%;
+  position: relative;
+  text-align: center;
+  bottom: 90%;
+  font-family: 'Barbie';
+  font-size: 100px;
+  color: #00FF00;
+  background-color: white;
+  opacity: 0.7;
+}
+
+.wrong{
+  width: 100%;
+  position: relative;
+  text-align: center;
+  bottom: 90%;
+  font-family: 'Barbie';
+  font-size: 100px;
+  color: #FF0000;
+  background-color: white;
+  opacity: 0.7;
+}

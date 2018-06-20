@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'Barbie';
+}
+
+.body {
+  width: 100%;
+  height: 880px;
+  background-image: url('../../images/pinkBackground.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+}
+
+.pageTitle{
+  margin: 0px;
+  font-family: 'Barbie';
+  font-size: 50px;
+  padding-top: 20px;
+  padding-left: 10px;
+  color: white;
+}
+
+.bitmoji{
+  width: 500px;
+  height: 500px;
+  background-image: url('../../images/bitmoji.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: inline-block;
+}
+
+.cake {
+  width: 500px;
+  height: 300px;
+  background: url('../../images/baking.gif');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: inline-block;
+}
+
+.middle {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.playButton {
+  width: 200px;
+  height: 50px;
+  background-color: #D80FA4;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.34);
+  margin-top: 600px;
+  position: absolute;
+  left: 43%;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-top: 13px;
+}
+
+.titleTheme{
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/lbcover.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.dope{
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/lbcover2.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}

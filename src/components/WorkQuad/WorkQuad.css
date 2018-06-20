@@ -1,0 +1,35 @@
+
+
+.sizing{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.quadContainer{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  display: inline-block;
+  margin-left: 100px;
+  position: absolute;
+}
+
+.quadCover{
+  position: absolute;
+  margin-left: 100px;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color:  #D80FA4;
+  opacity: 0.8;
+  z-index: 1;
+}
+
+.quadTitle{
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+  font-family: 'Shree Devanagari 714';
+  z-index: 1;
+}

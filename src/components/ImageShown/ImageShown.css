@@ -1,0 +1,48 @@
+
+.bodyIS{
+  width: 1440px;
+  height: 880px;
+  background-color: black;
+  top: 0px;
+  opacity: 0.5;
+  z-index: 3;
+  position: absolute;
+}
+
+.imageBox{
+  width: 800px;
+  height: 880px;
+  left: 23%;
+  top: 0px;
+  overflow-y: auto;
+  white-space: nowrap;
+  z-index: 4;
+  position: absolute;
+}
+
+.nextButton{
+  width: 76px;
+  height: 32px;
+  background-color: purple;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.24);
+  right: 20px;
+  position: absolute;
+  top: 20px;
+  color: white;
+  text-align: center;
+  line-height: 32px;
+  cursor: pointer;
+}
+.gifButton{
+  width: 76px;
+  height: 32px;
+  background-color: purple;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.24);
+  right: 20px;
+  position: absolute;
+  top: 20px;
+  color: white;
+  text-align: center;
+  line-height: 32px;
+  cursor: pointer;
+}
